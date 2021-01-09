@@ -1,4 +1,8 @@
-### Hi there 👋
+### :smile:
+
+- 🔭 当前岗位“容器运维工程师”
+- 🌱 正在学日语
+
 
 <!--
 **vflong/vflong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
