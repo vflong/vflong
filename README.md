@@ -1,4 +1,4 @@
-- 🔭 Focusing on k8s areas
+- 🔭 Thinking
 
 <!--
 **vflong/vflong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
